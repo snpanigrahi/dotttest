@@ -1,0 +1,14 @@
+log/
+log/*
+nbproject/
+.idea/
+public/system/
+public/uploads/
+vendor/cache/*
+tmp/pids
+public/ckeditor_assets/
+config/database.yml
+.bundle/
+MyProject.komodoproject
+.sass-cache/
+node_modules/*
