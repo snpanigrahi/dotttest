@@ -4060,7 +4060,7 @@ h1.xlarge {
 @media (max-width: 580px) {
 /* phones (portrait and landscape) ----------- */
 	
-.xs3Response . {
+.xs3Response {
  width: 50% !important;
 }
 .sliderTextFull {

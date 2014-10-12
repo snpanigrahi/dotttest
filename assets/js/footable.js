@@ -25,7 +25,7 @@
                 }
             },
             calculateWidthAndHeightOverride: null,
-            toggleSelector: ' > tbody > tr:not(.footable-row-detail)', //the selector to show/hide the detail row
+//            toggleSelector: ' > tbody > tr:not(.footable-row-detail)', //the selector to show/hide the detail row
             columnDataSelector: '> thead > tr:last-child > th, > thead > tr:last-child > td', //the selector used to find the column data in the thead
             createDetail: function (element, data) {
                 /// <summary>This function is used by FooTable to generate the detail view seen when expanding a collapsed row.</summary>

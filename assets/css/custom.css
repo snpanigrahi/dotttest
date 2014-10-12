@@ -1,0 +1,27 @@
+.customImage{
+    width: 100%;
+    min-height: 330px;
+    background: #BFC9CA;
+    
+}
+.custHide{
+    display: none;
+}
+.description{
+    min-height: 0;
+}
+.description span, .description p{
+    display: none;
+}
+.promotion {
+    display: none;
+}
+.image{
+    max-height: 160px;
+}
+.item{
+    height: 320px;
+}
+.footable.breakpoint > tbody > tr > td.expand{
+    background: none;
+}
