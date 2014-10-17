@@ -1,8 +1,11 @@
 .customImage{
     width: 100%;
     min-height: 330px;
-    background: #BFC9CA;
-    
+    /*background: #BFC9CA;*/
+   
+}
+.customImage img{
+    max-width: 100%;
 }
 .custHide{
     display: none;
